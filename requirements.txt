@@ -11,3 +11,4 @@ ffn
 Flask
 google-generativeai
 python-dotenv
+gunicorn

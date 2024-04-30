@@ -8,3 +8,6 @@ openpyxl
 pandas-datareader
 yfinance
 ffn
+Flask
+google-generativeai
+python-dotenv

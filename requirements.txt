@@ -12,3 +12,5 @@ Flask
 google-generativeai
 python-dotenv
 gunicorn
+beautifulSoup
+Selenium
